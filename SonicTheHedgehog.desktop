@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Sonic the Hedgehog
+Comment=Sonic The Hedgehog port using the Opensource RSDK engine
+Icon=sonic
+Exec=sonic
+Actions=
+Categories=Game;
+StartupWMClass=Sonic
